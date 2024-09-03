@@ -4,8 +4,9 @@ body {
     padding: 0;
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: weight;
+    font-weight: 600;
     font-style: normal;
+    color:#21ffc0;
     
 }
 
@@ -15,6 +16,7 @@ header {
     background: url(header_bg.webp);
     background-size: cover;
     display: flex;
+    background-image: url('deg.webp');
 }
 
 .header_left {
